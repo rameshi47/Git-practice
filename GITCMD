@@ -1,0 +1,15 @@
+git --version
+git init
+git status -s
+git add test 
+git commit -m 'First commit'
+git config --global user.name "Rameshi" & git config --global user.email "rameshbabu57119@gmail.com"
+git log
+git show b9e50dfdaeeb390c84ded73a6551ed004bfcd6c8
+history | grep git*
+git status -s
+git add test 
+git status -s
+git commit -m "Second commit"
+git log
+git show 1948
